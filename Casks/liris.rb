@@ -1,6 +1,6 @@
 cask "liris" do
-  version "0.4.5"
-  sha256 "6d63324fc21a1f3f1951db4f3d626926ff4beedd94edeb865bf9c1b3b79abaa1"
+  version "0.4.6"
+  sha256 "23ed1f3b0210bd36bd86a061700c17e9493a1c64af4d72da9728688fc6f1b4db"
 
   url "https://github.com/Fikriazrbni/Liris/releases/download/v#{version}/Liris-v#{version}-macos-arm64.zip"
   name "Liris"
