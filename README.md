@@ -19,7 +19,7 @@ The cask installs the prebuilt app from [Liris Releases](https://github.com/Fikr
 
 This is currently an **ad hoc signed pre-release**, not Apple-notarized. Gatekeeper may block opening it. Homebrew does not remove the need for Apple signing/notarization. Audio recognition is manual and off by default. System output including conversations can be analyzed when enabled.
 
-For YouTube/YouTube Music, open Panduan koneksi > Buka extension dan Brave and load the unpacked extension once. For Discord/system audio, choose Auto > Hubungkan > Aktifkan audio and grant macOS capture permission.
+For YouTube or YouTube Music, use the connection guide to open the extension folder, then load it as an unpacked extension in Brave. For Discord or other system audio, choose the Auto source, connect to the player, and enable audio recognition manually. Grant the macOS capture permission when prompted.
 
 ## Contributions
 

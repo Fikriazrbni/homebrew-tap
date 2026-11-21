@@ -16,10 +16,9 @@ cask "liris" do
     This is an ad hoc signed pre-release, not yet notarized by Apple.
     macOS Gatekeeper may block opening the downloaded app.
 
-    Launch Liris, click its menu bar icon, and choose Buka Liris to open the window.
-    Choose Keluar from the same menu to quit.
+    Launch Liris and use its menu bar icon to open the main window or quit.
     Audio recognition is off by default and must be enabled manually.
-    For Brave integration, open Liris > Panduan koneksi > Buka extension dan Brave,
-    then load the unpacked extension once. This also registers the native host.
+    For Brave, use the connection guide to open the extension folder, then load
+    the unpacked extension once. This also registers the native host.
   EOS
 end
